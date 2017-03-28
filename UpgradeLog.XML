@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ADES">
+</Property><Property Name="Solution File" Value="D:\kemal\_Misc\PhD\KK_TEZ_CD\408485\ADES\ADES.sln">
+</Property><Property Name="Date" Value="28 Temmuz 2012 Cumartesi">
+</Property><Property Name="Time" Value="12:19">
+</Property></Properties><Event ErrorLevel="0" Project="ADES" Source="ADES\ADES.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ADES" Source="ADES\ADES.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BOUNLib.NET" Source="BOUNLib.NET\BOUNLib.NET.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BOUNLib.NET" Source="BOUNLib.NET\BOUNLib.NET.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="Core" Source="..\..\..\PhDLibs\AForge.NET Framework\Sources\Core\Core.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="2" Project="Math" Source="..\..\..\PhDLibs\AForge.NET Framework\Sources\Math\Math.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="2" Project="Imaging" Source="..\..\..\PhDLibs\AForge.NET Framework\Sources\Imaging\Imaging.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="2" Project="Imaging.Formats" Source="..\..\..\PhDLibs\AForge.NET Framework\Sources\Imaging.Formats\Imaging.Formats.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="2" Project="Genetic" Source="..\..\..\PhDLibs\AForge.NET Framework\Sources\Genetic\Genetic.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="2" Project="DirectShowLib-2005" Source="..\..\..\PhDLibs\DirctShowLibV2\src\DirectShowLib-2005.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="2" Project="SVM" Source="..\..\..\PhDLibs\SVM\SVM\SVM.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="2" Project="Neuro" Source="..\..\..\PhDLibs\AForge.NET Framework\Sources\Neuro\Neuro.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="2" Project="ALGLIB_LDA" Source="..\..\..\PhDLibs\LDA\ALGLIB_LDA\ALGLIB_LDA.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="2" Project="OpenSURF" Source="..\..\..\PhDLibs\OpenSURF\OpenSURF\OpenSURF.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="2" Project="Accord.Neuro" Source="..\..\..\PhDLibs\accord-levenberg\Sources\Accord.Neuro\Accord.Neuro.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="2" Project="Accord.Math" Source="..\..\..\PhDLibs\accord-levenberg\Sources\Accord.Math\Accord.Math.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="AdesUnrealController" Source="AdesUnrealController\AdesUnrealController.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AdesUnrealController" Source="AdesUnrealController\AdesUnrealController.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="upisEx" Source="upisEx\upisEx.vcproj" Description="Converting project file 'D:\kemal\_Misc\PhD\KK_TEZ_CD\408485\ADES\upisEx\upisEx.vcproj'.">
+</Event><Event ErrorLevel="1" Project="upisEx" Source="upisEx\upisEx.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="upisEx" Source="upisEx\upisEx.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="upisEx" Source="upisEx\upisEx.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="upisEx" Source="upisEx\upisEx.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="upisEx" Source="upisEx\upisEx.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="upisEx" Source="upisEx\upisEx.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="upisEx" Source="upisEx\upisEx.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="upisEx" Source="upisEx\upisEx.vcproj" Description="Done converting to new project file 'D:\kemal\_Misc\PhD\KK_TEZ_CD\408485\ADES\upisEx\upisEx.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="upisEx" Source="upisEx\upisEx.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="upisdll" Source="imageServer\upisdll\upisdll.vcproj" Description="Converting project file 'D:\kemal\_Misc\PhD\KK_TEZ_CD\408485\ADES\imageServer\upisdll\upisdll.vcproj'.">
+</Event><Event ErrorLevel="1" Project="upisdll" Source="imageServer\upisdll\upisdll.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="upisdll" Source="imageServer\upisdll\upisdll.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="upisdll" Source="imageServer\upisdll\upisdll.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="upisdll" Source="imageServer\upisdll\upisdll.vcproj" Description="Done converting to new project file 'D:\kemal\_Misc\PhD\KK_TEZ_CD\408485\ADES\imageServer\upisdll\upisdll.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="upisdll" Source="imageServer\upisdll\upisdll.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="CSProlog" Source="CSProlog\CSProlog\CSProlog.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="CSProlog" Source="CSProlog\CSProlog\CSProlog.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CSProlog" Source="CSProlog\CSProlog\CSProlog.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PrologTestGUI" Source="CSProlog\PrologTestGUI\PrologTestGUI.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PrologTestGUI" Source="CSProlog\PrologTestGUI\PrologTestGUI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ADESTest" Source="ADESTest\ADESTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ADESTest" Source="ADESTest\ADESTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ADES.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ADES.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ADES" Source="ADES\ADES.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BOUNLib.NET" Source="BOUNLib.NET\BOUNLib.NET.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ADESTest" Source="ADESTest\ADESTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="AdesUnrealController" Source="AdesUnrealController\AdesUnrealController.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CSProlog" Source="CSProlog\CSProlog\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="CSProlog" Source="CSProlog\CSProlog\app.config" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PrologTestGUI" Source="CSProlog\PrologTestGUI\PrologTestGUI.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
