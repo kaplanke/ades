@@ -1,0 +1,56 @@
+\begin{thebibliography}{10}
+
+\bibitem{Eu01}
+``European commission: Transport policy white paper.''
+  http://europa.eu/legislation\_summaries/internal\_market/\\single\_market\_f%
+or\_goods/motor\_vehicles/\\technical\_implications\_road\_safety/l24257en.htm,
+  Sept 2001.
+
+\bibitem{Delaescalera97}
+A.~De~La~Escalera, L.~Moreno, M.~Salichs, and J.~Armingol, ``{Road traffic sign
+  detection and classification},'' {\em IEEE Transactions on Industrial
+  Electronics}, vol.~44, no.~6, pp.~848--859, 1997.
+
+\bibitem{Fang03}
+C.~Fang, S.~Chen, and C.~Fuh, ``{Road-sign detection and tracking},'' {\em IEEE
+  Transactions on Vehicular Technology}, vol.~52, no.~5, pp.~1329--1341, 2003.
+
+\bibitem{Hsu01}
+S.~Hsu and C.~Huang, ``{Road sign detection and recognition using matching
+  pursuit method},'' {\em Image and Vision Computing}, vol.~19, no.~3,
+  pp.~119--129, 2001.
+
+\bibitem{Bahlmann05}
+C.~Bahlmann, Y.~Zhu, V.~Ramesh, M.~Pellkofer, and T.~Koehler, ``{A system for
+  traffic sign detection, tracking, and recognition using color, shape, and
+  motion information},'' in {\em IEEE Intelligent Vehicles Symposium, 2005.
+  Proceedings}, pp.~255--260, 2005.
+
+\bibitem{Loy04}
+G.~Loy and N.~Barnes, ``{Fast shape-based road sign detection for a driver
+  assistance system},'' in {\em 2004 IEEE/RSJ International Conference on
+  Intelligent Robots and Systems, 2004.(IROS 2004). Proceedings}, vol.~1.
+
+\bibitem{Maldonadobascon07}
+S.~Maldonado-Bascon, S.~Lafuente-Arroyo, P.~Gil-Jimenez, H.~Gomez-Moreno, and
+  F.~Lopez-Ferreras, ``{Road-sign detection and recognition based on support
+  vector machines},'' {\em IEEE Transactions on Intelligent Transportation
+  Systems}, vol.~8, no.~2, pp.~264--278, 2007.
+
+\bibitem{Delaescalera03}
+A.~De~La~Escalera, J.~Armingol, and M.~Mata, ``{Traffic sign recognition and
+  analysis for intelligent vehicles},'' {\em Image and vision computing},
+  vol.~21, no.~3, pp.~247--258, 2003.
+
+\bibitem{Gao06}
+X.~Gao, L.~Podladchikova, D.~Shaposhnikov, K.~Hong, and N.~Shevtsova,
+  ``{Recognition of traffic signs based on their colour and shape features
+  extracted using human vision models},'' {\em Journal of Visual Communication
+  and Image Representation}, vol.~17, no.~4, pp.~675--685, 2006.
+
+\bibitem{Fleyeh05}
+H.~Fleyeh, ``{Road and Traffic Sign Color Detection and Segmentation-A
+  FuzzyApproach},'' in {\em Proceedings of IAPR Conference on Machine Vision
+  Applications}, pp.~124--127, Tsukuba, Japan, 2005.
+
+\end{thebibliography}
