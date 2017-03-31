@@ -3,8 +3,9 @@
 <pre>
 ADES: AUTOMATIC DRIVER EVALUATION SYSTEM
 
-
-
+!!!
+NOTE: PrologTestGUI can be used for testing Prolog bases Expert System...
+!!!
 
 1. Introduction
 
@@ -33,7 +34,7 @@ ADES
 |- imageServer            : The imageServer binaries used for UNREAL Engine detours
 |- UnrealFiles            : The UNREAD editor files
 |- upisEx                 : The VC++ project for capturing the images from the UNREAL Client
-|- ADES.sln               : The Visual Studio 2008 solution file for the entire project.
+|- ADES.sln               : The Visual Studio 2012 solution file for the entire project.
 
 The second folder contains the supplementary files like training
 images, trained neural network description files and the latex
@@ -68,6 +69,7 @@ UTILS
 
 The project binaries can be created by compiling the project 
 sources. The ADES.sln file should be opened by Visual Studio 
-2008 for the compilation. The ADES, ADESTest, ADESUnrealController 
+2012 for the compilation. The ADES, ADESTest, ADESUnrealController 
 projects can be used as startup projects.
+
 </pre>
