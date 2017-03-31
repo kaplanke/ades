@@ -1,0 +1,11 @@
+C:\PhDLibs\AForge.NET Framework\Sources\Core\bin\Debug\AForge.dll
+C:\PhDLibs\AForge.NET Framework\Sources\Core\bin\Debug\AForge.pdb
+C:\PhDLibs\AForge.NET Framework\Sources\Core\bin\Debug\AForge.xml
+C:\PhDLibs\AForge.NET Framework\Sources\Core\obj\Debug\ResolveAssemblyReference.cache
+C:\PhDLibs\AForge.NET Framework\Sources\Core\obj\Debug\AForge.dll
+C:\PhDLibs\AForge.NET Framework\Sources\Core\obj\Debug\AForge.pdb
+Z:\ades\ades\UTILS\libs\AForge.NET Framework\Sources\Core\bin\Debug\AForge.dll
+Z:\ades\ades\UTILS\libs\AForge.NET Framework\Sources\Core\bin\Debug\AForge.pdb
+Z:\ades\ades\UTILS\libs\AForge.NET Framework\Sources\Core\bin\Debug\AForge.xml
+Z:\ades\ades\UTILS\libs\AForge.NET Framework\Sources\Core\obj\Debug\AForge.dll
+Z:\ades\ades\UTILS\libs\AForge.NET Framework\Sources\Core\obj\Debug\AForge.pdb

@@ -1,0 +1,9 @@
+C:\PhDLibs\LDA\ALGLIB_LDA\bin\Debug\ALGLIB_LDA.dll
+C:\PhDLibs\LDA\ALGLIB_LDA\bin\Debug\ALGLIB_LDA.pdb
+C:\PhDLibs\LDA\ALGLIB_LDA\obj\Debug\ResolveAssemblyReference.cache
+C:\PhDLibs\LDA\ALGLIB_LDA\obj\Debug\ALGLIB_LDA.dll
+C:\PhDLibs\LDA\ALGLIB_LDA\obj\Debug\ALGLIB_LDA.pdb
+Z:\ades\ades\UTILS\libs\LDA\ALGLIB_LDA\obj\Debug\ALGLIB_LDA.dll
+Z:\ades\ades\UTILS\libs\LDA\ALGLIB_LDA\obj\Debug\ALGLIB_LDA.pdb
+Z:\ades\ades\UTILS\libs\LDA\ALGLIB_LDA\bin\Debug\ALGLIB_LDA.dll
+Z:\ades\ades\UTILS\libs\LDA\ALGLIB_LDA\bin\Debug\ALGLIB_LDA.pdb

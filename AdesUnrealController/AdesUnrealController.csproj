@@ -10,12 +10,13 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AdesUnrealController</RootNamespace>
     <AssemblyName>AdesUnrealController</AssemblyName>
-    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <OldToolsVersion>3.5</OldToolsVersion>
     <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -26,6 +27,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>x86</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -36,9 +38,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="FreeImageNET, Version=3.13.1.1, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\PhDLibs\FreeImage\Wrapper\FreeImage.NET\cs\Bin\FreeImageNET.dll</HintPath>
+    <Reference Include="FreeImageNET">
+      <HintPath>C:\nuget\vvvv.freeimage.3.15.1.1\build\net40\lib\FreeImageNET.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.DirectX, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
     <Reference Include="Microsoft.DirectX.DirectInput, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
@@ -84,6 +85,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="app.config" />
     <None Include="BNModels\NoTurn.xbn">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -107,8 +109,9 @@
       <Name>BOUNLib.NET</Name>
     </ProjectReference>
     <ProjectReference Include="..\upisEx\upisEx.vcxproj">
-      <Project>{0FDEEE64-60E3-4772-927B-2EAAE4441280}</Project>
+      <Project>{0fdeee64-60e3-4772-927b-2eaae4441280}</Project>
       <Name>upisEx</Name>
+      <Private>True</Private>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
@@ -125,6 +128,9 @@
     <Content Include="img\seat belt.png" />
     <Content Include="img\test-drive-logo.png" />
     <Content Include="img\trafikkaza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

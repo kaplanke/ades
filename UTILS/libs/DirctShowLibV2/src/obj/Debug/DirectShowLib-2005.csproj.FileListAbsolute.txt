@@ -1,0 +1,9 @@
+C:\PhDLibs\DirctShowLibV2\src\bin\Debug\DirectShowLib-2005.dll
+C:\PhDLibs\DirctShowLibV2\src\bin\Debug\DirectShowLib-2005.pdb
+C:\PhDLibs\DirctShowLibV2\src\obj\Debug\ResolveAssemblyReference.cache
+C:\PhDLibs\DirctShowLibV2\src\obj\Debug\DirectShowLib-2005.dll
+C:\PhDLibs\DirctShowLibV2\src\obj\Debug\DirectShowLib-2005.pdb
+Z:\ades\ades\UTILS\libs\DirctShowLibV2\src\bin\Debug\DirectShowLib-2005.dll
+Z:\ades\ades\UTILS\libs\DirctShowLibV2\src\bin\Debug\DirectShowLib-2005.pdb
+Z:\ades\ades\UTILS\libs\DirctShowLibV2\src\obj\Debug\DirectShowLib-2005.dll
+Z:\ades\ades\UTILS\libs\DirctShowLibV2\src\obj\Debug\DirectShowLib-2005.pdb

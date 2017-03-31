@@ -1,0 +1,12 @@
+C:\PhDLibs\AForge.NET Framework\Sources\Imaging.Formats\bin\Debug\AForge.Imaging.Formats.dll
+C:\PhDLibs\AForge.NET Framework\Sources\Imaging.Formats\bin\Debug\AForge.Imaging.Formats.pdb
+C:\PhDLibs\AForge.NET Framework\Sources\Imaging.Formats\bin\Debug\AForge.Imaging.Formats.xml
+C:\PhDLibs\AForge.NET Framework\Sources\Imaging.Formats\obj\Debug\ResolveAssemblyReference.cache
+C:\PhDLibs\AForge.NET Framework\Sources\Imaging.Formats\obj\Debug\AForge.Imaging.Formats.dll
+C:\PhDLibs\AForge.NET Framework\Sources\Imaging.Formats\obj\Debug\AForge.Imaging.Formats.pdb
+Z:\ades\ades\UTILS\libs\AForge.NET Framework\Sources\Imaging.Formats\bin\Debug\AForge.Imaging.Formats.dll
+Z:\ades\ades\UTILS\libs\AForge.NET Framework\Sources\Imaging.Formats\bin\Debug\AForge.Imaging.Formats.pdb
+Z:\ades\ades\UTILS\libs\AForge.NET Framework\Sources\Imaging.Formats\bin\Debug\AForge.Imaging.Formats.xml
+Z:\ades\ades\UTILS\libs\AForge.NET Framework\Sources\Imaging.Formats\obj\Debug\AForge.Imaging.Formats.dll
+Z:\ades\ades\UTILS\libs\AForge.NET Framework\Sources\Imaging.Formats\obj\Debug\AForge.Imaging.Formats.pdb
+Z:\ades\ades\UTILS\libs\AForge.NET Framework\Sources\Imaging.Formats\obj\Debug\Imaging.Formats.csprojResolveAssemblyReference.cache

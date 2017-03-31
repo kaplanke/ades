@@ -1,0 +1,14 @@
+C:\caner\cmpe\2009\VS2008\SVMDemo\SVMDemo\bin\Debug\SVMDemo.exe
+C:\caner\cmpe\2009\VS2008\SVMDemo\SVMDemo\bin\Debug\SVMDemo.pdb
+C:\caner\cmpe\2009\VS2008\SVMDemo\SVMDemo\bin\Debug\SVM.dll
+C:\caner\cmpe\2009\VS2008\SVMDemo\SVMDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\caner\cmpe\2009\VS2008\SVMDemo\SVMDemo\obj\Debug\SVMDemo.Properties.Resources.resources
+C:\caner\cmpe\2009\VS2008\SVMDemo\SVMDemo\obj\Debug\SVMDemo.SVMCanvas.resources
+C:\caner\cmpe\2009\VS2008\SVMDemo\SVMDemo\obj\Debug\SVMDemo.SVMDemoForm.resources
+C:\caner\cmpe\2009\VS2008\SVMDemo\SVMDemo\obj\Debug\SVMDemo.csproj.GenerateResource.Cache
+C:\caner\cmpe\2009\VS2008\SVMDemo\SVMDemo\obj\Debug\SVMDemo.exe
+C:\caner\cmpe\2009\VS2008\SVMDemo\SVMDemo\obj\Debug\SVMDemo.pdb
+C:\caner\cmpe\2009\VS2008\SVMDemo\SVMDemo\bin\Debug\SVM.pdb
+C:\caner\cmpe\2009\VS2008\SVMDemo\SVMDemo\bin\Debug\SVM.xml
+C:\Users\Kemal\Desktop\SVMDemo\SVMDemo\obj\Debug\SVMDemo.exe
+C:\Users\Kemal\Desktop\SVMDemo\SVMDemo\obj\Debug\SVMDemo.pdb

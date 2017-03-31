@@ -1,0 +1,11 @@
+Z:\ades\ades\UTILS\libs\accord-levenberg\Sources\Accord.Math\bin\x86\Debug\Accord.Math.dll
+Z:\ades\ades\UTILS\libs\accord-levenberg\Sources\Accord.Math\bin\x86\Debug\Accord.Math.pdb
+Z:\ades\ades\UTILS\libs\accord-levenberg\Sources\Accord.Math\bin\x86\Debug\AForge.dll
+Z:\ades\ades\UTILS\libs\accord-levenberg\Sources\Accord.Math\bin\x86\Debug\AForge.Math.dll
+Z:\ades\ades\UTILS\libs\accord-levenberg\Sources\Accord.Math\bin\x86\Debug\AForge.pdb
+Z:\ades\ades\UTILS\libs\accord-levenberg\Sources\Accord.Math\bin\x86\Debug\AForge.xml
+Z:\ades\ades\UTILS\libs\accord-levenberg\Sources\Accord.Math\bin\x86\Debug\AForge.Math.pdb
+Z:\ades\ades\UTILS\libs\accord-levenberg\Sources\Accord.Math\bin\x86\Debug\AForge.Math.xml
+Z:\ades\ades\UTILS\libs\accord-levenberg\Sources\Accord.Math\obj\x86\Debug\Accord.Math.csprojResolveAssemblyReference.cache
+Z:\ades\ades\UTILS\libs\accord-levenberg\Sources\Accord.Math\obj\x86\Debug\Accord.Math.dll
+Z:\ades\ades\UTILS\libs\accord-levenberg\Sources\Accord.Math\obj\x86\Debug\Accord.Math.pdb

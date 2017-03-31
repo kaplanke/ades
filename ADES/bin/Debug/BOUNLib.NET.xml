@@ -1,0 +1,556 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BOUNLib.NET</name>
+    </assembly>
+    <members>
+        <member name="T:BOUNLib.Constants">
+            <summary>
+            Options for processors.
+            </summary>
+        </member>
+        <member name="F:BOUNLib.Constants.base_folder">
+            <summary>
+            The base folder definition for training files and system outputs.
+            </summary>
+        </member>
+        <member name="F:BOUNLib.Constants.IMAGE_WIDTH">
+            <summary>
+            The width of the image
+            </summary>
+        </member>
+        <member name="F:BOUNLib.Constants.IMAGE_HEIGHT">
+            <summary>
+            the height of the image
+            </summary>
+        </member>
+        <member name="M:BOUNLib.Constants.getAngle(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Gets angle with atan(X2-X1/Y2-Y1).
+            </summary>
+            <param name="X1"></param>
+            <param name="Y1"></param>
+            <param name="X2"></param>
+            <param name="Y2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.Constants.DIST(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Euclidean distance.
+            </summary>
+            <param name="x1"></param>
+            <param name="x2"></param>
+            <param name="y1"></param>
+            <param name="y2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.Constants.DIST(System.Drawing.Point,System.Drawing.Point)">
+            <summary>
+            Euclidean distance.
+            </summary>
+            <param name="p1"></param>
+            <param name="p2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.Constants.MAX(System.Double[],System.Int32@)">
+            <summary>
+            Gets MAX of array.
+            </summary>
+            <param name="inArr"></param>
+            <param name="idx">Returns index of the max</param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.Constants.MIN(System.Double[],System.Int32@)">
+            <summary>
+            Gets MIN of array.
+            </summary>
+            <param name="inArr"></param>
+            <param name="idx">Returns index of the min </param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.Constants.getColorValForLabeling(System.Drawing.Color)">
+            <summary>
+            Arranges labeling color.
+            </summary>
+            <param name="clr"></param>
+            <returns></returns>
+        </member>
+        <member name="T:BOUNLib.ES.ExpertSystems">
+            <summary>
+            Expert system interace
+            </summary>
+        </member>
+        <member name="M:BOUNLib.ES.ExpertSystems.init(System.Object[])">
+            <summary>
+            Initializes the expert system
+            </summary>
+            <param name="esParams"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.ES.ExpertSystems.assertFact(System.Object[])">
+            <summary>
+            Fact assertion.
+            </summary>
+            <param name="esParams"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.ES.ExpertSystems.retractFact(System.Object[])">
+            <summary>
+            Fact retrection.
+            </summary>
+            <param name="esParams"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.ES.ExpertSystems.query(System.Object[])">
+            <summary>
+            Violation query feature.
+            </summary>
+            <param name="esParams"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.ES.ExpertSystems.setThreshold(System.Double)">
+            <summary>
+            The violation threshold setter for driver aggressivness
+            </summary>
+            <param name="threshold"></param>
+        </member>
+        <member name="M:BOUNLib.ES.ExpertSystems.getThreshold">
+            <summary>
+            Violation threshold getter.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:BOUNLib.ES.PrologES">
+            <summary>
+            Prolog based ES implementation.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.ES.BeliefNetworkES">
+            <summary>
+            Belief Networks based ES implementation.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Globals">
+            <summary>
+            Global options for logging.
+            </summary>
+        </member>
+        <member name="M:BOUNLib.Globals.init">
+            <summary>
+            Intializes the options with default values.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Messaging.MsgInitiator">
+            <summary>
+            The interface definition for source classes. 
+            </summary>
+        </member>
+        <member name="M:BOUNLib.Messaging.MsgInitiator.start">
+            <summary>
+            Starts the information flow.
+            </summary>
+        </member>
+        <member name="M:BOUNLib.Messaging.MsgInitiator.stop">
+            <summary>
+            Stops the information flow.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Messaging.MsgConsumer">
+            <summary>
+            The interface definition for processor classes.
+            </summary>
+        </member>
+        <member name="M:BOUNLib.Messaging.MsgConsumer.getMsgType">
+            <summary>
+             Returns the message type that the processor handles.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.Messaging.MsgConsumer.consumeMessage(BOUNLib.Messages.IMessage,System.Int32)">
+            <summary>
+            Consumes the provided message.
+            </summary>
+            <param name="message"></param>
+            <param name="msgID"></param>
+        </member>
+        <member name="T:BOUNLib.Messaging.MsgService">
+            <summary>
+            The base message service class.
+            </summary>
+        </member>
+        <member name="M:BOUNLib.Messaging.MsgService.sendMsg(BOUNLib.Messages.IMessage)">
+            <summary>
+            Send message to the target.
+            </summary>
+            <param name="msg"></param>
+        </member>
+        <member name="M:BOUNLib.Messaging.MsgService.receiveMsg(System.Byte[])">
+            <summary>
+            Receive message from source.
+            </summary>
+            <param name="msg"></param>
+        </member>
+        <member name="T:BOUNLib.Messaging.BasicMsgService">
+            <summary>
+            Simply transfers the acquired message to the target object.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Messaging.DispatchMsgService">
+            <summary>
+            Creates a copy of the acquired message for all registered target objects.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Messaging.MessageFlow">
+            <summary>
+            The main message flow binding object.
+            </summary>
+        </member>
+        <member name="M:BOUNLib.Messaging.MessageFlow.addConsumer(BOUNLib.Messaging.MsgConsumer)">
+            <summary>
+            Register consumers.
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:BOUNLib.Messaging.MessageFlow.addInitiator(BOUNLib.Messaging.MsgInitiator)">
+            <summary>
+            Register sources.
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:BOUNLib.Messaging.MessageFlow.startFlow">
+            <summary>
+            Triggers the sources to start.
+            </summary>
+        </member>
+        <member name="M:BOUNLib.Messaging.MessageFlow.stopFlow">
+            <summary>
+            Stops the flow.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.NET.Toolbox.FileTools">
+            <summary>
+            File operations.
+            </summary>
+        </member>
+        <member name="M:BOUNLib.NET.Toolbox.FileTools.getTrainingFiles(System.Int32@)">
+            <summary>
+            Gets training files for NN and SVM.
+            </summary>
+            <param name="class_count"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.NET.Toolbox.FileTools.binarySerialize(System.String,System.Object)">
+            <summary>
+            Writes a binary file to disk.
+            </summary>
+            <param name="filename"></param>
+            <param name="o"></param>
+        </member>
+        <member name="M:BOUNLib.NET.Toolbox.FileTools.binaryDeserialize(System.String)">
+            <summary>
+            Reads a binary file from disk.
+            </summary>
+            <param name="filename"></param>
+            <returns></returns>
+        </member>
+        <member name="T:BOUNLib.NET.Toolbox.SURF">
+            <summary>
+            OpenSURF integration.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.NET.ImageFilters.SignFilter">
+            <summary>
+            Custom AForge filter for sign detection.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.NET.ImageFilters.LaneFilter">
+            <summary>
+            Custom AForge filter for lane detection
+            </summary>
+        </member>
+        <member name="T:BOUNLib.NET.ImageFilters.ColorLabelFilter">
+            <summary>
+            Custom AForge filter for color labeling
+            </summary>
+        </member>
+        <member name="T:BOUNLib.ToolBox.CRC8_POLY">
+            <summary>
+            For CRC calculation.
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:BOUNLib.ToolBox.CRC8Calc" -->
+        <member name="T:BOUNLib.ToolBox.ByteTools">
+            <summary>
+            Various byte operations.
+            </summary>
+        </member>
+        <member name="M:BOUNLib.ToolBox.ByteTools.intToByteArr(System.Int32,System.Byte[],System.Int32)">
+            <summary>
+            Converts integer to byte array.
+            </summary>
+            <param name="data"></param>
+            <param name="outBuf"></param>
+            <param name="pos"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.ToolBox.ByteTools.byteArrToByteArr(System.Byte[],System.Byte[],System.Int32)">
+            <summary>
+            Copies a subarray of a byte array.
+            </summary>
+            <param name="inBuf"></param>
+            <param name="outBuf"></param>
+            <param name="pos"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.ToolBox.ByteTools.intFromByteArr(System.Byte[],System.Int32)">
+            <summary>
+            Extracts integer from byte array.
+            </summary>
+            <param name="inBuf"></param>
+            <param name="pos"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.ToolBox.ByteTools.byteArrFromByteArr(System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            Returns byte array from a subarray of a byte array.
+            </summary>
+            <param name="inBuf"></param>
+            <param name="pos"></param>
+            <param name="size"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.ToolBox.ByteTools.BmpToBytes(System.Drawing.Bitmap,System.Drawing.Imaging.PixelFormat)">
+            <summary>
+            Gets byte array from Bitmap.
+            </summary>
+            <param name="bmp"></param>
+            <param name="pf"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.ToolBox.ByteTools.BytesToBmp(System.Byte[],System.Int32,System.Int32,System.Drawing.Imaging.PixelFormat)">
+            <summary>
+            Constructs Bitmap from byte array.
+            </summary>
+            <param name="bmpBytes"></param>
+            <param name="bmpWidth"></param>
+            <param name="bmpHeight"></param>
+            <param name="pf"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.ToolBox.ByteTools.bppToPixelFormat(System.Int32)">
+            <summary>
+            Bits per pixel to PixelFormat
+            </summary>
+            <param name="bpp"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.ToolBox.ByteTools.pixelFormatToBPP(System.Drawing.Imaging.PixelFormat)">
+            <summary>
+            PixelFormat to bits per pixel integer.
+            </summary>
+            <param name="pf"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BOUNLib.ToolBox.ByteTools.imageCoM(System.Drawing.Bitmap,System.Int32@,System.Int32@)">
+            <summary>
+            Center of Mass calculation for an image.
+            </summary>
+            <param name="bmp"></param>
+            <param name="com_x"></param>
+            <param name="com_y"></param>
+        </member>
+        <member name="T:BOUNLib.Messages.IMessage">
+            <summary>
+            Messaging interface implemented by message classes
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Messages.GenericMessage">
+            <summary>
+            Any basic message format. All messages can be converted to this type for serialization purposes.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Messages.UDPMessage">
+            <summary>
+            Transferres information in distributed deployments of the processors and source classes.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Messages.VisionMessage">
+            <summary>
+            The basic image information from the source objects.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Messages.TextMessage">
+            <summary>
+            Text based infromation provided by the source objects.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Processors.HistogramProcessor">
+            <summary>
+            Finds the histogram of the captured image for improing the binarization process.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Processors.AForgeProcessor">
+            <summary>
+            A generic processor for utilizing the AForge image library features.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Processors.LaneDetectorProcessor">
+            <summary>
+            MHT and HMM base lane detector procesor.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Processors.GeoTransChromosome">
+            <summary>
+            Genetic algorithm processing class.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Processors.CircularSignDetectorProcessor">
+            <summary>
+            Processor for detecting circular signs.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Processors.TriangularSignDetectorProcessor">
+            <summary>
+            Processor for detecting triangular signs.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Processors.HoughLineProcessor">
+            <summary>
+            Hough line processor for classical lane detection method.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Processors.AutoBrightnessProcessor">
+            <summary>
+            Automatic brightness correction processor.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Processors.SVM_SURFProcessor">
+            <summary>
+            Sign classification processor uses SVM based on SURF features or grid based features.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Processors.NN_Processor">
+            <summary>
+            Sign classification processor uses NN based on grid based features.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Processors.NN_SURFProcessor">
+            <summary>
+            Sign classification processor uses NN based on SURF features.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.Sources.FileVisionSource">
+            <summary>
+            Read vision information from video file.
+            </summary>
+        </member>
+        <member name="F:BOUNLib.Sources.FileVisionSource.m_FilterGraph">
+            <summary> graph builder interface. </summary>
+        </member>
+        <member name="F:BOUNLib.Sources.FileVisionSource.m_videoWidth">
+            <summary> Dimensions of the image, calculated once in constructor. </summary>
+        </member>
+        <member name="M:BOUNLib.Sources.FileVisionSource.ConfigureSampleGrabber(DirectShowLib.ISampleGrabber)">
+            <summary> Set the options on the sample grabber </summary>
+        </member>
+        <member name="M:BOUNLib.Sources.FileVisionSource.SaveSizeInfo(DirectShowLib.ISampleGrabber)">
+            <summary> Read and store the properties </summary>
+        </member>
+        <member name="M:BOUNLib.Sources.FileVisionSource.Dispose">
+            <summary> release everything. </summary>
+        </member>
+        <member name="M:BOUNLib.Sources.FileVisionSource.CloseInterfaces">
+            <summary> Shut down capture </summary>
+        </member>
+        <member name="M:BOUNLib.Sources.FileVisionSource.DirectShowLib#ISampleGrabberCB#BufferCB(System.Double,System.IntPtr,System.Int32)">
+            <summary> buffer callback, COULD BE FROM FOREIGN THREAD. </summary>
+        </member>
+        <member name="M:BOUNLib.Sources.FileVisionSource.DirectShowLib#ISampleGrabberCB#SampleCB(System.Double,DirectShowLib.IMediaSample)">
+            <summary> sample callback, NOT USED. </summary>
+        </member>
+        <member name="T:BOUNLib.Sources.DeviceVisionSource">
+            <summary>
+            Read vision information from a connected camera.
+            </summary>
+        </member>
+        <member name="F:BOUNLib.Sources.DeviceVisionSource.m_FilterGraph">
+            <summary> graph builder interface. </summary>
+        </member>
+        <member name="F:BOUNLib.Sources.DeviceVisionSource.m_videoWidth">
+            <summary> Dimensions of the image, calculated once in constructor. </summary>
+        </member>
+        <member name="M:BOUNLib.Sources.DeviceVisionSource.ConfigureSampleGrabber(DirectShowLib.ISampleGrabber)">
+            <summary> Set the options on the sample grabber </summary>
+        </member>
+        <member name="M:BOUNLib.Sources.DeviceVisionSource.SaveSizeInfo(DirectShowLib.ISampleGrabber)">
+            <summary> Read and store the properties </summary>
+        </member>
+        <member name="M:BOUNLib.Sources.DeviceVisionSource.Dispose">
+            <summary> release everything. </summary>
+        </member>
+        <member name="M:BOUNLib.Sources.DeviceVisionSource.CloseInterfaces">
+            <summary> Shut down capture </summary>
+        </member>
+        <member name="M:BOUNLib.Sources.DeviceVisionSource.DirectShowLib#ISampleGrabberCB#BufferCB(System.Double,System.IntPtr,System.Int32)">
+            <summary> buffer callback, COULD BE FROM FOREIGN THREAD. </summary>
+        </member>
+        <member name="M:BOUNLib.Sources.DeviceVisionSource.DirectShowLib#ISampleGrabberCB#SampleCB(System.Double,DirectShowLib.IMediaSample)">
+            <summary> sample callback, NOT USED. </summary>
+        </member>
+        <member name="T:BOUNLib.Sources.BitmapMemoryVisionSource">
+            <summary>
+            Read vision information from memory.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.NET.Toolbox.LDA">
+            <summary>
+            LDA Calculation from training files.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.ToolBox.Logger">
+            <summary>
+            Statistics logger.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.NET.Toolbox.NNTrain">
+            <summary>
+            Neural Network training process.
+            </summary>
+        </member>
+        <member name="M:BOUNLib.ToolBox.Statistics.GetVariance(System.Int32[])">
+            <summary>
+            Get variance
+            </summary>
+        </member>
+        <member name="M:BOUNLib.ToolBox.Statistics.GetStdev(System.Int32[])">
+            <summary>
+            Get standard deviation
+            </summary>
+        </member>
+        <member name="T:BOUNLib.NET.Toolbox.SVMTrain">
+            <summary>
+            SVM training process.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.UDPServices.UDPAddress">
+            <summary>
+            UDP connection address definition
+            </summary>
+        </member>
+        <member name="T:BOUNLib.UDPServices.UDPMsgService">
+            <summary>
+            UDP Messaging service.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.UDPServices.UDPServer">
+            <summary>
+            UDP server imlementation.
+            </summary>
+        </member>
+        <member name="T:BOUNLib.UDPServices.UDPClient">
+            <summary>
+            UDP client implementation.
+            </summary>
+        </member>
+    </members>
+</doc>

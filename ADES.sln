@@ -16,29 +16,29 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADES", "ADES\ADES.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOUNLib.NET", "BOUNLib.NET\BOUNLib.NET.csproj", "{DADE2C4A-2BCA-4E72-B662-C3142BD7E2D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\..\..\PhDLibs\AForge.NET Framework\Sources\Core\Core.csproj", "{631AC093-430F-45F4-BA0C-AF0F0405918A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "UTILS\libs\AForge.NET Framework\Sources\Core\Core.csproj", "{631AC093-430F-45F4-BA0C-AF0F0405918A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "..\..\..\PhDLibs\AForge.NET Framework\Sources\Math\Math.csproj", "{C0FAF524-72E4-46F7-8C1B-A6B74DEC5EBE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "UTILS\libs\AForge.NET Framework\Sources\Math\Math.csproj", "{C0FAF524-72E4-46F7-8C1B-A6B74DEC5EBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imaging", "..\..\..\PhDLibs\AForge.NET Framework\Sources\Imaging\Imaging.csproj", "{C6A8B9AE-0749-41C7-8FF9-02C156696F45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imaging", "UTILS\libs\AForge.NET Framework\Sources\Imaging\Imaging.csproj", "{C6A8B9AE-0749-41C7-8FF9-02C156696F45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imaging.Formats", "..\..\..\PhDLibs\AForge.NET Framework\Sources\Imaging.Formats\Imaging.Formats.csproj", "{50050BA8-B739-4931-8DBA-D77A031537FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imaging.Formats", "UTILS\libs\AForge.NET Framework\Sources\Imaging.Formats\Imaging.Formats.csproj", "{50050BA8-B739-4931-8DBA-D77A031537FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genetic", "..\..\..\PhDLibs\AForge.NET Framework\Sources\Genetic\Genetic.csproj", "{2EFAA327-1789-4438-B9F5-E83ACAE12DB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genetic", "UTILS\libs\AForge.NET Framework\Sources\Genetic\Genetic.csproj", "{2EFAA327-1789-4438-B9F5-E83ACAE12DB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectShowLib-2005", "..\..\..\PhDLibs\DirctShowLibV2\src\DirectShowLib-2005.csproj", "{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectShowLib-2005", "UTILS\libs\DirctShowLibV2\src\DirectShowLib-2005.csproj", "{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVM", "..\..\..\PhDLibs\SVM\SVM\SVM.csproj", "{2A381CBB-8291-435C-A8E3-BBF3B590B2B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVM", "UTILS\libs\SVM\SVM\SVM.csproj", "{2A381CBB-8291-435C-A8E3-BBF3B590B2B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neuro", "..\..\..\PhDLibs\AForge.NET Framework\Sources\Neuro\Neuro.csproj", "{02B5E453-2085-4E41-86D9-C8E8A03FB1B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neuro", "UTILS\libs\AForge.NET Framework\Sources\Neuro\Neuro.csproj", "{02B5E453-2085-4E41-86D9-C8E8A03FB1B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALGLIB_LDA", "..\..\..\PhDLibs\LDA\ALGLIB_LDA\ALGLIB_LDA.csproj", "{B17F825B-B40B-425C-B92F-FC82E030C985}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALGLIB_LDA", "UTILS\libs\LDA\ALGLIB_LDA\ALGLIB_LDA.csproj", "{B17F825B-B40B-425C-B92F-FC82E030C985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSURF", "..\..\..\PhDLibs\OpenSURF\OpenSURF\OpenSURF.csproj", "{3988AC40-E13E-4334-8E19-766096655B1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSURF", "UTILS\libs\OpenSURF\OpenSURF\OpenSURF.csproj", "{3988AC40-E13E-4334-8E19-766096655B1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accord.Neuro", "..\..\..\PhDLibs\accord-levenberg\Sources\Accord.Neuro\Accord.Neuro.csproj", "{179F3045-8757-4F4B-9508-F48327BA11E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accord.Neuro", "UTILS\libs\accord-levenberg\Sources\Accord.Neuro\Accord.Neuro.csproj", "{179F3045-8757-4F4B-9508-F48327BA11E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accord.Math", "..\..\..\PhDLibs\accord-levenberg\Sources\Accord.Math\Accord.Math.csproj", "{F718E9A8-DB62-4785-8C49-4333A60D256A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accord.Math", "UTILS\libs\accord-levenberg\Sources\Accord.Math\Accord.Math.csproj", "{F718E9A8-DB62-4785-8C49-4333A60D256A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdesUnrealController", "AdesUnrealController\AdesUnrealController.csproj", "{7D52E35F-F376-49C8-A917-F7D06CC85800}"
 EndProject

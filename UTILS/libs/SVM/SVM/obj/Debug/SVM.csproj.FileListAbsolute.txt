@@ -1,0 +1,17 @@
+C:\caner\cmpe\2009\VS2008\SVM\bin\Debug\SVM.dll
+C:\caner\cmpe\2009\VS2008\SVM\bin\Debug\SVM.pdb
+C:\caner\cmpe\2009\VS2008\SVM\bin\Debug\svm.xml
+C:\caner\cmpe\2009\VS2008\SVM\obj\Debug\ResolveAssemblyReference.cache
+C:\caner\cmpe\2009\VS2008\SVM\obj\Debug\SVM.dll
+C:\caner\cmpe\2009\VS2008\SVM\obj\Debug\SVM.pdb
+C:\PhDLibs\SVM\SVM\bin\Debug\SVM.dll
+C:\PhDLibs\SVM\SVM\bin\Debug\SVM.pdb
+C:\PhDLibs\SVM\SVM\bin\Debug\svm.xml
+C:\PhDLibs\SVM\SVM\obj\Debug\ResolveAssemblyReference.cache
+C:\PhDLibs\SVM\SVM\obj\Debug\SVM.dll
+C:\PhDLibs\SVM\SVM\obj\Debug\SVM.pdb
+Z:\ades\ades\UTILS\libs\SVM\SVM\obj\Debug\SVM.dll
+Z:\ades\ades\UTILS\libs\SVM\SVM\obj\Debug\SVM.pdb
+Z:\ades\ades\UTILS\libs\SVM\SVM\bin\Debug\SVM.dll
+Z:\ades\ades\UTILS\libs\SVM\SVM\bin\Debug\SVM.pdb
+Z:\ades\ades\UTILS\libs\SVM\SVM\bin\Debug\svm.xml

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SVMDemo">
+</Property><Property Name="Solution File" Value="C:\lib\delivery\svm_demo_source\SVMDemo\SVMDemo.sln">
+</Property><Property Name="User Options File" Value="C:\lib\delivery\svm_demo_source\SVMDemo\SVMDemo.suo">
+</Property><Property Name="Date" Value="Wednesday, September 03, 2008">
+</Property><Property Name="Time" Value="20:01 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SVMDemo.sln" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SVMDemo.suo" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo.suo">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\SVMDemo.csproj" Description="Project file successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\SVMDemo.csproj">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\Gaussian.cs" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\Gaussian.cs">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\SVMCanvas.cs" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\SVMCanvas.cs">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\SVMCanvas.Designer.cs" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\SVMCanvas.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\SVMDemoForm.cs" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\SVMDemoForm.cs">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\SVMDemoForm.Designer.cs" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\SVMDemoForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\Program.cs" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\Program.cs">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\Properties\Settings.settings" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\pearl.ico" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\pearl.ico">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\SVM.dll" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\SVM.dll">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\Properties\Resources.resx" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\SVMCanvas.resx" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\SVMCanvas.resx">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\SVMDemoForm.resx" Description="File successfully backed up as C:\lib\delivery\svm_demo_source\SVMDemo\Backup\SVMDemo\SVMDemoForm.resx">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\SVMDemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SVMDemo" Source="SVMDemo\SVMDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SVMDemo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SVMDemo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SVMDemo" Source="SVMDemo\SVMDemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

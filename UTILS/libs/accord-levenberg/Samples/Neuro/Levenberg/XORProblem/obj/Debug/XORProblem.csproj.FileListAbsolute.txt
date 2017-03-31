@@ -1,0 +1,17 @@
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\bin\Debug\XORProblem.exe
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\bin\Debug\XORProblem.pdb
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\bin\Debug\Accord.Neuro.dll
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\bin\Debug\AForge.Controls.dll
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\bin\Debug\AForge.dll
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\bin\Debug\AForge.Math.dll
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\bin\Debug\AForge.Neuro.dll
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\bin\Debug\AForge.Video.dll
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\bin\Debug\Accord.Math.dll
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\bin\Debug\AForge.Genetic.dll
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\bin\Debug\Accord.Math.pdb
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\bin\Debug\Accord.Neuro.pdb
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\obj\Debug\XORProblem.MainForm.resources
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\obj\Debug\XORProblem.csproj.GenerateResource.Cache
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\obj\Debug\XORProblem.exe
+C:\Users\Cesar\Desktop\Accord.NET\Samples\Neuro\Levenberg\XORProblem\obj\Debug\XORProblem.pdb

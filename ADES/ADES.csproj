@@ -87,23 +87,23 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\PhDLibs\AForge.NET Framework\Sources\Core\Core.csproj">
+    <ProjectReference Include="..\UTILS\libs\AForge.NET Framework\Sources\Core\Core.csproj">
       <Project>{631AC093-430F-45F4-BA0C-AF0F0405918A}</Project>
       <Name>Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\..\PhDLibs\AForge.NET Framework\Sources\Imaging\Imaging.csproj">
+    <ProjectReference Include="..\UTILS\libs\AForge.NET Framework\Sources\Imaging\Imaging.csproj">
       <Project>{C6A8B9AE-0749-41C7-8FF9-02C156696F45}</Project>
       <Name>Imaging</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\..\PhDLibs\AForge.NET Framework\Sources\Math\Math.csproj">
+    <ProjectReference Include="..\UTILS\libs\AForge.NET Framework\Sources\Math\Math.csproj">
       <Project>{C0FAF524-72E4-46F7-8C1B-A6B74DEC5EBE}</Project>
       <Name>Math</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\..\PhDLibs\DirctShowLibV2\src\DirectShowLib-2005.csproj">
+    <ProjectReference Include="..\UTILS\libs\DirctShowLibV2\src\DirectShowLib-2005.csproj">
       <Project>{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}</Project>
       <Name>DirectShowLib-2005</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\..\PhDLibs\SVM\SVM\SVM.csproj">
+    <ProjectReference Include="..\UTILS\libs\SVM\SVM\SVM.csproj">
       <Project>{2A381CBB-8291-435C-A8E3-BBF3B590B2B6}</Project>
       <Name>SVM</Name>
     </ProjectReference>

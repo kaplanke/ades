@@ -1,0 +1,24 @@
+C:\Documents and Settings\Administrator\Desktop\SVM\SVMDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\SVM\SVMDemo\obj\Debug\SVMDemo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\SVM\SVMDemo\obj\Debug\SVMDemo.SVMCanvas.resources
+C:\Documents and Settings\Administrator\Desktop\SVM\SVMDemo\obj\Debug\SVMDemo.SVMDemoForm.resources
+C:\Documents and Settings\Administrator\Desktop\SVM\SVMDemo\obj\Debug\SVMDemo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\SVM\SVMDemo\bin\Debug\SVMDemo.exe
+C:\Documents and Settings\Administrator\Desktop\SVM\SVMDemo\bin\Debug\SVMDemo.pdb
+C:\Documents and Settings\Administrator\Desktop\SVM\SVMDemo\bin\Debug\SVM.dll
+C:\Documents and Settings\Administrator\Desktop\SVM\SVMDemo\bin\Debug\SVM.pdb
+C:\Documents and Settings\Administrator\Desktop\SVM\SVMDemo\bin\Debug\SVM.xml
+C:\Documents and Settings\Administrator\Desktop\SVM\SVMDemo\obj\Debug\SVMDemo.exe
+C:\Documents and Settings\Administrator\Desktop\SVM\SVMDemo\obj\Debug\SVMDemo.pdb
+D:\Kml\PhD\SVM\SVMDemo\obj\Debug\SVMDemo.exe
+D:\Kml\PhD\SVM\SVMDemo\obj\Debug\SVMDemo.pdb
+D:\Kml\PhD\SVM\SVMDemo\bin\Debug\SVMDemo.exe
+D:\Kml\PhD\SVM\SVMDemo\bin\Debug\SVMDemo.pdb
+D:\Kml\PhD\SVM\SVMDemo\bin\Debug\SVM.dll
+D:\Kml\PhD\SVM\SVMDemo\bin\Debug\SVM.pdb
+D:\Kml\PhD\SVM\SVMDemo\bin\Debug\SVM.xml
+D:\Kml\PhD\SVM\SVMDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\Kml\PhD\SVM\SVMDemo\obj\Debug\SVMDemo.Properties.Resources.resources
+D:\Kml\PhD\SVM\SVMDemo\obj\Debug\SVMDemo.SVMCanvas.resources
+D:\Kml\PhD\SVM\SVMDemo\obj\Debug\SVMDemo.SVMDemoForm.resources
+D:\Kml\PhD\SVM\SVMDemo\obj\Debug\SVMDemo.csproj.GenerateResource.Cache

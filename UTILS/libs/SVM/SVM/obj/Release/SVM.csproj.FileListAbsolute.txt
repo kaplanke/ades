@@ -1,0 +1,12 @@
+C:\Users\Caner\Desktop\svm_source\SVM\bin\Release\SVM.dll
+C:\Users\Caner\Desktop\svm_source\SVM\bin\Release\SVM.pdb
+C:\Users\Caner\Desktop\svm_source\SVM\bin\Release\svm.xml
+C:\Users\Caner\Desktop\svm_source\SVM\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Caner\Desktop\svm_source\SVM\obj\Release\SVM.dll
+C:\Users\Caner\Desktop\svm_source\SVM\obj\Release\SVM.pdb
+C:\caner\cmpe\2009\VS2008\SVM\bin\Release\SVM.dll
+C:\caner\cmpe\2009\VS2008\SVM\bin\Release\SVM.pdb
+C:\caner\cmpe\2009\VS2008\SVM\bin\Release\svm.xml
+C:\caner\cmpe\2009\VS2008\SVM\obj\Release\ResolveAssemblyReference.cache
+C:\caner\cmpe\2009\VS2008\SVM\obj\Release\SVM.dll
+C:\caner\cmpe\2009\VS2008\SVM\obj\Release\SVM.pdb

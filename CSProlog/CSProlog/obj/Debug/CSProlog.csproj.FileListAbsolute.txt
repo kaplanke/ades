@@ -1,6 +1,5 @@
 Z:\ades\ades\CSProlog\CSProlog\bin\Debug\CSProlog.exe.config
 Z:\ades\ades\CSProlog\CSProlog\bin\Debug\CSProlog.exe
 Z:\ades\ades\CSProlog\CSProlog\bin\Debug\CSProlog.pdb
-Z:\ades\ades\CSProlog\CSProlog\obj\Debug\CSProlog.csprojResolveAssemblyReference.cache
 Z:\ades\ades\CSProlog\CSProlog\obj\Debug\CSProlog.exe
 Z:\ades\ades\CSProlog\CSProlog\obj\Debug\CSProlog.pdb
