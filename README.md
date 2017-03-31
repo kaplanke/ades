@@ -72,4 +72,13 @@ sources. The ADES.sln file should be opened by Visual Studio
 2012 for the compilation. The ADES, ADESTest, ADESUnrealController 
 projects can be used as startup projects.
 
+Prerequisites:
+ 1- Download and install directx sdk - https://www.microsoft.com/en-us/download/details.aspx?id=6812 (For ADES controller)
+ 2- Register MSBN3.dll via regsvr32 and add it to the references (For ADES controller)
+ 3- Register Freeimage.dll (or use nuget) (For ADES controller)
+ 4- Register upisEx.dll 
+ 5- Install unreal Tournament for unreal engine hook (For ADES controller)
+ 
+
+
 </pre>
