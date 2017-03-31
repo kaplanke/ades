@@ -1,8 +1,11 @@
 # ades
+
+<pre>
 ADES: AUTOMATIC DRIVER EVALUATION SYSTEM
 
-
-
+!!!
+NOTE: PrologTestGUI can be used for testing Prolog bases Expert System...
+!!!
 
 1. Introduction
 
@@ -31,7 +34,7 @@ ADES
 |- imageServer            : The imageServer binaries used for UNREAL Engine detours
 |- UnrealFiles            : The UNREAD editor files
 |- upisEx                 : The VC++ project for capturing the images from the UNREAL Client
-|- ADES.sln               : The Visual Studio 2008 solution file for the entire project.
+|- ADES.sln               : The Visual Studio 2012 solution file for the entire project.
 
 The second folder contains the supplementary files like training
 images, trained neural network description files and the latex
@@ -66,5 +69,16 @@ UTILS
 
 The project binaries can be created by compiling the project 
 sources. The ADES.sln file should be opened by Visual Studio 
-2008 for the compilation. The ADES, ADESTest, ADESUnrealController 
+2012 for the compilation. The ADES, ADESTest, ADESUnrealController 
 projects can be used as startup projects.
+
+Prerequisites:
+ 1- Download and install directx sdk - https://www.microsoft.com/en-us/download/details.aspx?id=6812 (For ADES controller)
+ 2- Register MSBN3.dll via regsvr32 and add it to the references (For ADES controller)
+ 3- Register Freeimage.dll (or use nuget) (For ADES controller)
+ 4- Register upisEx.dll 
+ 5- Install unreal Tournament for unreal engine hook (For ADES controller)
+ 
+
+
+</pre>
