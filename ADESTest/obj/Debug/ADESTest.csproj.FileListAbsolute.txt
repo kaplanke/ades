@@ -59,3 +59,5 @@ C:\java\eclipse\workspace\ADES\ADESTest\bin\Debug\media\nn_12x12_13.dat
 C:\java\eclipse\workspace\ADES\ADESTest\bin\Debug\media\nn_12x12_14.dat
 C:\java\eclipse\workspace\ADES\ADESTest\bin\Debug\media\nn_12x12_2.dat
 C:\java\eclipse\workspace\ADES\ADESTest\bin\Debug\media\nn_12x12_8.dat
+Z:\ades\ades\ADESTest\obj\Debug\ADESTest.exe
+Z:\ades\ades\ADESTest\obj\Debug\ADESTest.pdb

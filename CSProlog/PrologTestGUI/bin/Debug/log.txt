@@ -1,0 +1,301 @@
+16:58:59------------------------------------------------------------------------------------
+16:58:59------------------------------------ EXECUTION STARTED -----------------------------
+16:58:59------------------------------------------------------------------------------------
+16:58:59-----> Executing:"PROLOG ENGINE INITIALIZED!".
+16:58:59
+16:58:59
+no
+
+16:59:26-----> Executing:
+16:59:26
+16:59:26
+no
+
+16:59:41-----> Executing:retractall(rfid_detected(pre,no_uturn)).
+16:59:41
+16:59:41
+yes
+
+16:59:43-----> Executing:retractall(velocity_exceeds(50)).
+16:59:43
+16:59:43
+yes
+
+16:59:44-----> Executing:retractall(sign_detected(no_turn_left)).
+16:59:44
+16:59:44
+yes
+
+17:01:23-----> Executing:
+17:01:23
+17:01:23
+yes
+
+17:02:04-----> Executing:
+17:02:04
+17:02:04
+yes
+
+17:02:15-----> Executing:
+17:02:15
+17:02:15
+yes
+
+17:02:43-----> Executing:retractall(rfid_detected(pre,no_turn_left)).
+17:02:43
+17:02:43
+yes
+
+17:02:45-----> Executing:retractall(sign_detected(no_turn_left)).
+17:02:45
+17:02:45
+yes
+
+17:03:05-----> Executing:retractall(violation(V,A,P)).
+17:03:05
+17:03:05
+yes
+
+17:03:07-----> Executing:retractall(violation(V,A,P) :- velocity_exceeds(S),rfid_detected(V,L),sign_detected(V,L),gps_node_property(V,L),S>L,atom_chars(S,L1),append(L1,[95],L2),atom_chars(L,L3),append(L2,L3,L4),atom_chars(A,L4),prob(P)).
+17:03:07
+17:03:07
+yes
+
+17:03:16-----> Executing:
+17:03:16
+17:03:16
+yes
+
+17:03:34-----> Executing:retractall(gps_node_property(speed_limit,30)).
+17:03:34
+17:03:34
+yes
+
+17:03:36-----> Executing:retractall(velocity_exceeds(50)).
+17:03:36
+17:03:36
+yes
+
+17:03:37-----> Executing:retractall(sign_detected(speed_limit,30)).
+17:03:37
+17:03:37
+yes
+
+17:04:06-----> Executing:
+17:04:06
+17:04:06
+yes
+
+17:04:23-----> Executing:
+17:04:23
+17:04:23
+yes
+
+17:05:28-----> Executing:
+17:05:28
+17:05:28
+yes
+
+17:05:45-----> Executing:
+17:05:45
+17:05:45
+yes
+
+17:05:45-----> Executing:
+17:05:45
+17:05:45
+yes
+
+17:05:46-----> Executing:
+17:05:46
+17:05:46
+yes
+
+17:05:46-----> Executing:
+17:05:46
+17:05:46
+yes
+
+17:05:46-----> Executing:
+17:05:46
+17:05:46
+yes
+
+17:05:46-----> Executing:
+17:05:46
+17:05:46
+yes
+
+17:05:46-----> Executing:
+17:05:46
+17:05:46
+yes
+
+17:05:46-----> Executing:
+17:05:46
+17:05:46
+yes
+
+17:05:46-----> Executing:
+17:05:46
+17:05:46
+yes
+
+17:05:47-----> Executing:
+17:05:47
+17:05:47
+yes
+
+17:05:47-----> Executing:
+17:05:47
+17:05:47
+yes
+
+17:05:47-----> Executing:
+17:05:47
+17:05:47
+yes
+
+17:05:47-----> Executing:
+17:05:47
+17:05:47
+yes
+
+17:05:47-----> Executing:
+17:05:47
+17:05:47
+yes
+
+17:05:47-----> Executing:
+17:05:47
+17:05:47
+yes
+
+17:05:47-----> Executing:
+17:05:48
+17:05:48
+yes
+
+17:05:48-----> Executing:
+17:05:48
+17:05:48
+yes
+
+17:06:00-----> Executing:retractall(violation(V,A,P)).
+17:06:00
+17:06:00
+yes
+
+17:06:01-----> Executing:
+17:06:01
+17:06:01
+yes
+
+17:06:08-----> Executing:retractall(velocity_exceeds(90)).
+17:06:08
+17:06:08
+yes
+
+17:06:09-----> Executing:
+17:06:09
+17:06:09
+yes
+
+17:06:11-----> Executing:
+17:06:11
+17:06:11
+yes
+
+17:07:05-----> Executing:retractall(violation(V,A,P) :- velocity_exceeds(S),rfid_detected(V,L),sign_detected(V,L),gps_node_property(V,L),S>L,atom_chars(S,L1),append(L1,[95],L2),atom_chars(L,L3),append(L2,L3,L4),atom_chars(A,L4),prob(P)).
+17:07:05
+17:07:05
+yes
+
+17:07:05-----> Executing:retractall(sign_detected(speed_limit,30)).
+17:07:05
+17:07:05
+yes
+
+17:07:05-----> Executing:retractall(rfid_detected(speed_limit,30)).
+17:07:05
+17:07:05
+yes
+
+17:07:05-----> Executing:retractall(gps_node_property(speed_limit,30)).
+17:07:05
+17:07:05
+yes
+
+17:07:39-----> Executing:retractall(sign_detected(speed_limit,30)).
+17:07:39
+17:07:39
+yes
+
+17:07:39-----> Executing:assert("0.6::sign_detected(speed_limit,30)").
+17:07:39
+17:07:39
+yes
+
+17:08:19-----> Executing:retractall(sign_detected(speed_limit,30)).
+17:08:19
+17:08:19
+yes
+
+17:08:19-----> Executing:assert("0.6::sign_detected(speed_limit,30)").
+17:08:19
+17:08:19
+yes
+
+17:08:21-----> Executing:retractall(rfid_detected(speed_limit,30)).
+17:08:21
+17:08:21
+yes
+
+17:08:21-----> Executing:assert("0.6::rfid_detected(speed_limit,30)").
+17:08:21
+17:08:21
+yes
+
+17:08:22-----> Executing:retractall(gps_node_property(speed_limit,30)).
+17:08:22
+17:08:22
+yes
+
+17:08:22-----> Executing:assert("0.6::gps_node_property(speed_limit,30)").
+17:08:22
+17:08:22
+yes
+
+17:08:24-----> Executing:retractall(velocity_exceeds(90)).
+17:08:24
+17:08:24
+yes
+
+17:08:24-----> Executing:assert("0.6::velocity_exceeds(90)").
+17:08:24
+17:08:24
+yes
+
+17:08:26-----> Executing:retractall(violation(V,A,P) :- velocity_exceeds(S),rfid_detected(V,L),sign_detected(V,L),gps_node_property(V,L),S>L,atom_chars(S,L1),append(L1,[95],L2),atom_chars(L,L3),append(L2,L3,L4),atom_chars(A,L4),prob(P)).
+17:08:26
+17:08:26
+yes
+
+17:08:26-----> Executing:assert(violation(V,A,P) :- velocity_exceeds(S),rfid_detected(V,L),sign_detected(V,L),gps_node_property(V,L),S>L,atom_chars(S,L1),append(L1,[95],L2),atom_chars(L,L3),append(L2,L3,L4),atom_chars(A,L4),prob(P)).
+17:08:26
+17:08:26
+yes
+
+17:08:28-----> Executing:violation(V,A,P).
+17:08:28
+Prob for this answer:0,1296
+
+17:08:28
+A = '90_30'
+P = 0.1296
+V = speed_limit
+
+17:08:31
+17:08:31
+no
+

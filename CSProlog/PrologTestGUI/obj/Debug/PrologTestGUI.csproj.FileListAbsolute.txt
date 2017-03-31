@@ -1,0 +1,11 @@
+Z:\ades\ades\CSProlog\PrologTestGUI\bin\Debug\Actions.xml
+Z:\ades\ades\CSProlog\PrologTestGUI\bin\Debug\PrologTestGUI.exe
+Z:\ades\ades\CSProlog\PrologTestGUI\bin\Debug\PrologTestGUI.pdb
+Z:\ades\ades\CSProlog\PrologTestGUI\bin\Debug\CSProlog.exe
+Z:\ades\ades\CSProlog\PrologTestGUI\bin\Debug\CSProlog.pdb
+Z:\ades\ades\CSProlog\PrologTestGUI\obj\Debug\PrologTestGUI.csprojResolveAssemblyReference.cache
+Z:\ades\ades\CSProlog\PrologTestGUI\obj\Debug\PrologTestGUI.Form1.resources
+Z:\ades\ades\CSProlog\PrologTestGUI\obj\Debug\PrologTestGUI.Properties.Resources.resources
+Z:\ades\ades\CSProlog\PrologTestGUI\obj\Debug\PrologTestGUI.csproj.GenerateResource.Cache
+Z:\ades\ades\CSProlog\PrologTestGUI\obj\Debug\PrologTestGUI.exe
+Z:\ades\ades\CSProlog\PrologTestGUI\obj\Debug\PrologTestGUI.pdb
